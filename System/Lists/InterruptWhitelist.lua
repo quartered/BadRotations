@@ -14,29 +14,32 @@ br.lists.interruptWhitelist = {
 	[288915] = true, -- Horrifying
 	-- Horrific visions end
 	-- Atal'Dazar start
-	[255824] = true, -- fanatic rage
-	[253583] = true, -- Fiery Enchant
-	[253544] = true, -- bwonsamdismantle
+	--[255824] = true, -- fanatic rage
+	--[253583] = true, -- Fiery Enchant
+	--[253544] = true, -- bwonsamdismantle
 	[253517] = true, -- mending word
 	[256849] = true, -- dinomight
-    [259572] = true, -- noxious-stench
-    [250096] = true, -- wracking-pain
-    [255041] = true, -- terrifying-screech
-    [279118] = true, -- unstable-hex
+	[259572] = true, -- noxious-stench
+	[250096] = true, -- wracking-pain
+	[255041] = true, -- terrifying-screech
+	[279118] = true, -- unstable-hex
+	[253562] = true, -- wildfire
 	-- Atal'Dazar end
 	-- Shrine of Storm start
+	[267969] = true, -- water-blast
 	[268030] = true, -- mending-rapids
 	[274438] = true, -- tempest
+	[268177] = true, -- wind-blast
 	-- [267818] = true, -- slicing-blast
 	[268309] = true, -- unending-darkness
 	[268317] = true, -- rip-mind
 	[276767] = true, -- consuming-void
-	[268375] = true, -- detect-thoughts
+	--[268375] = true, -- detect-thoughts
 	[267809] = true, -- consume-essence
 	[268322] = true, -- drowned kick
 	[267977] = true, -- tidal surge
 	-- Shrine of Storm end
-	-- Motherload! start
+	-- Motherlode! start
 	[268129] = true, -- kajacola-refresher
 	[268709] = true, -- earth-shield
 	[268702] = true, -- furious-quake
@@ -48,7 +51,9 @@ br.lists.interruptWhitelist = {
 	[268797] = true, -- EnemyToGoo
 	[262092] = true, -- InhaleVapors
 	[280604] = true, -- ice-spritzer
-	-- Motherload! end
+	[263209] = true, -- throw-rock
+	[262554] = true, -- repair
+	-- Motherlode! end
 	-- Underrot start
 	[265089] = true, -- dark-reconstitution
 	[278755] = true, -- harrowing-despair
@@ -69,6 +74,7 @@ br.lists.interruptWhitelist = {
 	[257736] = true, -- thundering-squall
 	[256060] = true, -- revitalizing-brew
 	[257784] = true, -- Frostblast
+	[281420] = true, -- water-bolt
 	-- Freehold end
 	-- Waycrest Manor start
 	[265368] = true, -- spirited-defense
@@ -86,6 +92,12 @@ br.lists.interruptWhitelist = {
 	[263959] = true, -- soul-volley
 	[268278] = true, -- wracking-chord
 	[266225] = true, -- darkened-lightning
+	[260696] = true, -- ruinous-bolt
+	[260697] = true, -- bramble-bolt
+	[260698] = true, -- soul-bolt
+	[260699] = true, -- soul-bolt
+	[260700] = true, -- ruinous-bolt
+	[260701] = true, -- bramble-bolt
 	-- Waycrest Manor end
 	-- Temple of Sethraliss start
 	[265968] = true, -- healing-surge
